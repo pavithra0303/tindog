@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya:wght@500&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+body{
+    background-color: #ff4c69 !important;
+    font-family: 'Ubuntu' !important;  
+}
+.nav-style {
+    background-color: #ff4c69 !important;
+    padding: 1% 15% !important;  
+}
+.header-1{
+  padding: 1% 15% !important;
+  margin-bottom: 150px;
+}
+.play-btn{
+  background-color: #ff4c69 !important;
+}
+.logo-btn{
+  width: 16px;
+}
+.head{
+  font-family: 'Ubuntu' !important;
+}
+.iphone-dog{
+  width: 20%;
+  transform: rotate(20deg);
+  position: absolute;
+  right: 24%;
+}
+.header-2{
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+.header-2-sub{
+   padding: 1% 15% !important; 
+}
+.grid{
+  padding: 40px ;
+  padding-bottom: 10%;
+  text-align: center;
+}
+.line-logo-2{
+  width: 40px;
+}
+.header-3{
+  padding: 1% 15% !important; 
+}
+.dog{
+  width: 50px;
+  margin-left: 10px;
+}
+.dogname{
+  text-align: center;
+}
+.header-4{
+  background-color: white;
+}
+
+/* .last-btn{
+   text-align: center; } */
+.header-6 {
+  background-color: white;
+}
+.media{
+  display: flex;
+  justify-content: center;
+  align-self:center;
+  padding: 70px;
+}
+.media img{
+  width: 50px;
+  border-radius: 6px;
+}
